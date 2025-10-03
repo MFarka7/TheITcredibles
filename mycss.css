@@ -16,12 +16,12 @@ body{
    
 }
 
-#AndreaE{
-   background-color: initial;
-   font-family: initial;
-   color:initial;
-   
-}
+#AndreaR{
+   background-color: rgba(37, 55, 1, 0.694);
+   font-family: "Georgia", sans-serif;
+   font-size: 15pt;
+   color: rgb(114, 58, 20);
+   }
 
 #ZuzanaB{
    background-color: chocolate;
